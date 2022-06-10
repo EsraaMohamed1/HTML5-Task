@@ -1,0 +1,45 @@
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 70px;
+    background-color: white;
+    font-size: 18px;
+}
+.prgraph{
+    width: 260px;
+    padding: 10px;
+    background-color:lightgray;
+    font-size: 18px;
+    border: 1px black solid;
+}
+.divv{
+    width: 300px;
+    height: 450px;
+    background-color:lightsteelblue;
+    margin-left: 35%;
+    padding-top: 20px;
+    margin-top: 50px;
+    border:1px black solid;
+}
+.div2{
+
+    width:280px;
+     padding: 10px;
+      background-color:mintcream;
+
+}
+.div1{
+    width: 300px;
+     text-align: center; 
+     background-color:crimson;
+
+}
+#audioname{
+
+    color:brown;
+     display: none;
+     margin-left: 40%;
+     font-size: 25px;
+}

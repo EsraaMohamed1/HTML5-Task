@@ -1,0 +1,42 @@
+
+body{
+    background-color: lightgray;
+}
+div{
+    margin-left: 35%;
+    margin-top: 7%;
+padding: 20px;
+    width:300px;
+    height: 420px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+#btn{
+    margin-left: 20px;
+    width: 270px ;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(53, 53, 230);
+    color: white;
+   
+    }
+
+.labels{
+     color: blue;
+     font-size: 17px;
+        
+  }
+ #lblage{
+  margin-left: 7px;
+    }
+.inputt{
+    width: 200px ;
+height: 25px;
+border-radius: 10px;
+}
+#inputname,#inputmail,#inputage{
+    margin-left: 19px;
+}
+
